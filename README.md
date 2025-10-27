@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshil Darji</h1>
-<h3 align="center">🚀 Machine Learning | Deep Learning | Computer Vision Enthusiast | MCA Student</h3>
+<h3 align="center">🚀 Machine Learning | Python | Java Java Developer |  MCA Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+ML+Engineer+%F0%9F%9A%80;Deep+Learning+Explorer+%F0%9F%94%8E;OpenCV+Learner+%F0%9F%96%8C%EF%B8%8F;Always+Learning+Something+New!&center=true&width=500&height=30" />
@@ -9,7 +9,7 @@
 
 🌟 **About Me**
 
-- 🎓 I'm currently pursuing **Master of Computer Applications (MCA) – Semester 2**
+- 🎓 I'm currently pursuing **Master of Computer Applications (MCA) – Semester 3**
 - 🧠 Focused on **Machine Learning**, **Deep Learning**, and **Computer Vision**
 - 🤖 Currently diving deep into **OpenCV** – mastering image processing & real-time object detection
 - 📊 Skilled in **Data Preprocessing**, **EDA**, **Feature Engineering**, and **Model Building**
@@ -51,10 +51,10 @@
 
 🎯 **Goals for 2025**
 
-- 💼 Crack a **Machine Learning or Computer Vision Internship**
+- 💼 Crack a **Data Science or Java Developer**
 - 📚 Master **Deep Learning Architectures** like CNNs, RNNs, LSTMs
 - 🤖 Build end-to-end **AI-powered applications** with real-time detection using **OpenCV**
-- 🌍 Contribute to **open-source ML projects**
+- 🌍 Contribute to **open-source ML projects & Java Desktop Applications**
 - 🚀 Upload impactful and beginner-friendly **YouTube videos & GitHub repositories**
 
 ---
