@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshil Darji</h1>
-<h3 align="center">🚀 Machine Learning | Python | Java Java Developer |  MCA Student</h3>
+<h3 align="center">🚀 Machine Learning | Python | Java Developer |  MCA Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+ML+Engineer+%F0%9F%9A%80;Deep+Learning+Explorer+%F0%9F%94%8E;OpenCV+Learner+%F0%9F%96%8C%EF%B8%8F;Always+Learning+Something+New!&center=true&width=500&height=30" />
