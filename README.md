@@ -187,24 +187,37 @@ const harshil: Developer = {
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshill-17&theme=transparent&hide_border=true&stroke=6E9FFF&ring=9F6EFF&fire=ff6e6e&currStreakLabel=6E9FFF&sideLabels=6E9FFF&dates=c9d1d9&background=0d1117" width="70%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshill-17&bg_color=0d1117&color=6E9FFF&line=9F6EFF&point=ffffff&area=true&area_color=6E9FFF&hide_border=true" width="95%" />
-
-<br/><br/>
-
-<!-- Profile Summary Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshill-17&theme=github_dark" width="95%" />
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Harshill-17&theme=github-dark&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=8b949e&dates=8b949e&stroke=30363d"
+    width="75%"
+  />
+</p>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshill-17&theme=github_dark" width="46%" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harshill-17&theme=github_dark" width="46%" />
+<!-- REAL GITHUB CONTRIBUTION GRAPH -->
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/2ea043/Harshill-17"
+    width="95%"
+    alt="Harshill-17's GitHub Contribution Chart"
+  />
+</p>
 
-</div>
+<br/>
+
+<!-- CLEAN GITHUB STYLE ACTIVITY GRAPH -->
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Harshill-17&bg_color=0d1117&color=c9d1d9&line=39d353&point=39d353&area=true&area_color=21262d&hide_border=true&custom_title=Harshil%20Darji's%20GitHub%20Activity%20Graph"
+    width="95%"
+  />
+</p>
+
+<br/>
+
+
 
 ---
 
@@ -260,25 +273,25 @@ const harshil: Developer = {
 
 <br/>
 
-<a href="https://linkedin.com/in/harshildarji" target="_blank">
+<a href="www.linkedin.com/in/harshil-darji-6b3a54353" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Harshil%20Darji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
-<a href="mailto:harshildarji@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-harshildarji%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+<a href="mailto:harshildarji@gmail.com?subject=Let's%20Connect&body=Hi%20Harshil,">
+  <img 
+    src="https://img.shields.io/badge/Gmail-harshilsunildarji%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" 
+    alt="Gmail Badge"
+  />
 </a>
 &nbsp;
-<a href="https://harshildarji.dev" target="_blank">
+<a href="https://harshil-portfolio-alpha.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-harshildarji.dev-6E9FFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
 </a>
 
 <br/><br/>
 
-<a href="https://twitter.com/harshildarji" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter%2FX-@harshildarji-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" />
-</a>
 &nbsp;
-<a href="https://instagram.com/harshildarji" target="_blank">
+<a href="https://instagram.com/harshill.17" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-@harshildarji-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
@@ -292,80 +305,6 @@ const harshil: Developer = {
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" />
 <strong>&nbsp; Always open to exciting opportunities & collaborations! &nbsp;</strong>
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" />
-
-</div>
-
----
-
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!--                     FUN EXTRAS                                 -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 💡 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote_color=6E9FFF&author_color=9F6EFF" width="80%" />
-
-</div>
-
-<br/>
-
-<!-- Snake Animation -->
-<div align="center">
-
-## 🐍 My Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshill-17/Harshill-17/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshill-17/Harshill-17/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Harshill-17/Harshill-17/output/github-contribution-grid-snake-dark.svg" width="95%" />
-</picture>
-
-> **⚙️ Setup:** Add a GitHub Action to your repo to auto-generate the snake animation. See [Platane/snk](https://github.com/Platane/snk) for instructions.
-
-</div>
-
-<br/>
-
-<!-- Spotify -->
-<div align="center">
-
-## 🎵 Coding Soundtrack
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=false&bar_color=6E9FFF&bar_color_cover=true" />
-
-> **🎧 To enable:** Visit [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) and replace `YOUR_SPOTIFY_USERNAME` with your Spotify ID.
-
-</div>
-
-<br/>
-
-<!-- Dev Meme -->
-<div align="center">
-
-## 😂 Dev Meme of the Day
-
-<img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true&qColor=%236E9FFF&aColor=%239F6EFF" width="60%" />
-
-</div>
-
-<br/>
-
-<!-- Support -->
-<div align="center">
-
-## ☕ Support My Work
-
-If you like what I do, consider buying me a coffee!
-
-<a href="https://www.buymeacoffee.com/harshildarji" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-☕%20Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=0d1117" />
-</a>
-&nbsp;
-<a href="https://github.com/Harshill-17?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/⭐%20Star%20My%20Repos-Show%20Some%20Love-6E9FFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-</a>
 
 </div>
 
