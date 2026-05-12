@@ -185,28 +185,6 @@ const harshil: Developer = {
 
 ## 📊 GitHub Analytics
 
-<br/>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Harshill-17&theme=github-dark&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=8b949e&dates=8b949e&stroke=30363d"
-    width="75%"
-  />
-</p>
-
-<br/>
-
-<!-- REAL GITHUB CONTRIBUTION GRAPH -->
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/2ea043/Harshill-17"
-    width="95%"
-    alt="Harshill-17's GitHub Contribution Chart"
-  />
-</p>
-
-<br/>
-
 <!-- CLEAN GITHUB STYLE ACTIVITY GRAPH -->
 <p align="center">
   <img
