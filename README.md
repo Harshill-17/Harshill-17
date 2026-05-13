@@ -15,21 +15,6 @@
 
 <br/><br/>
 
-<!-- Profile badges row -->
-<a href="https://github.com/Harshill-17">
-  <img src="https://img.shields.io/github/followers/Harshill-17?label=Followers&style=for-the-badge&color=6E9FFF&labelColor=0d1117&logo=github" />
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Harshill-17&style=for-the-badge&color=6E9FFF&labelColor=0d1117&label=Profile+Views" />
-&nbsp;
-<a href="https://github.com/Harshill-17?tab=repositories">
-  <img src="https://img.shields.io/badge/Public%20Repos-See%20All-6E9FFF?style=for-the-badge&logo=github&labelColor=0d1117" />
-</a>
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" />
-
 </div>
 
 ---
